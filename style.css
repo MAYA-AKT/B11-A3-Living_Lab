@@ -1,0 +1,15 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Sora:wght@100..800&display=swap');
+
+.sora_font {
+    font-family: "Sora", serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+  }
+ nav{
+    display: flex;
+ }
+  nav ul li{
+    margin-left: 27px;
+  }
